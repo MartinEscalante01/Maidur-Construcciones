@@ -1810,11 +1810,11 @@ section {
 .pokeball div {
      width: 3rem;
      position: fixed;
-     right: 5px;
+     right: 2px;
      bottom: 5px;
      z-index: 1;
      @media (max-width:1200px){
-        width: 5rem;
+        width: 3rem;
         
      }
      
